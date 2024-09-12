@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruthuwamahoro&label=Profile%20views&color=0e75b6&style=flat" alt="ruthuwamahoro" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruthuwamahoro" alt="ruthuwamahoro" /></a> </p>
-
 - 💬 Ask me about **react, next.js, node, express, postgres,mongodb, sql,python,typescript,javascript, tailwind, html,css, javascript,bootstrap, sass,**
 
 - 📫 How to reach me **r.uwamahoro@alustudent.com**
