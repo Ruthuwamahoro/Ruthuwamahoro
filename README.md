@@ -9,6 +9,8 @@
 
 - ⚡ Fun fact **I think I am funny**
 
+- <a href="https://app.daily.dev/ruthuwamahoro"><img src="https://api.daily.dev/devcards/v2/CwfiKT8Pz4IQ7a9v6B6k1.png?type=default&r=q91" width="356" alt="Ruth Uwamahoro's Dev Card"/></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/ruth-uwamahoro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ruth-uwamahoro" height="30" width="40" /></a>
